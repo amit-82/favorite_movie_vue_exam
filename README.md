@@ -7,6 +7,8 @@ exam instructions:
 - there are unit tests, you can run them using `npm run test:unit`
 - for perfect score to should pass all the tests
 
+![Alt text](screen.png?raw=true "Screenshot")
+
 #### The application has 3 components:
 
 * The Movieform component, which allows the user to enter data about movies.
