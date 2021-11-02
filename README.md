@@ -1,5 +1,8 @@
 # Favorite Movie Vue exam
 
+you can either git clone it or download it by clicking the green 'code' button at the top right of the git page:
+https://github.com/amit-82/favorite_movie_vue_exam 
+
 exam instructions:
 - you have 2.5 hours for the exam.
 - run `npm install` to install node dependencies
